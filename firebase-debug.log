@@ -1,0 +1,21 @@
+[debug] [2021-08-18T08:51:07.706Z] ----------------------------------------------------------------------
+[debug] [2021-08-18T08:51:07.710Z] Command:       E:\Node.js\node.exe C:\Users\Venera\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-18T08:51:07.711Z] CLI Version:   9.16.5
+[debug] [2021-08-18T08:51:07.711Z] Platform:      win32
+[debug] [2021-08-18T08:51:07.711Z] Node Version:  v16.4.2
+[debug] [2021-08-18T08:51:07.713Z] Time:          Wed Aug 18 2021 11:51:07 GMT+0300 (Восточная Европа, летнее время)
+[debug] [2021-08-18T08:51:07.713Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-18T08:51:07.726Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-18T08:51:07.727Z] > authorizing via signed-in user (tanushka20101998@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Venera\Desktop\react-quiz
+
